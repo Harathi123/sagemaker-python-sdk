@@ -6,4 +6,4 @@ dependencies:
     - python>=3
     - numpy
     - scipy
-    - requests==2.20
+    - requests=2.20
