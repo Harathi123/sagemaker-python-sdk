@@ -5,9 +5,9 @@
 version: 2
 
 conda:
-  environment: .rtd-environment.yml
+    environment: .rtd-environment.yml
 
 python:
-  install:
-    - method: pip
-      path: .
+    install:
+      - method: pip
+        path: .
