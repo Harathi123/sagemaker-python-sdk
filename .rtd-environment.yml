@@ -5,4 +5,3 @@ name: sagemaker
 dependencies:
     - numpy
     - scipy
-    - requests=2.20
